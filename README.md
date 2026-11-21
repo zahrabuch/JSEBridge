@@ -1,4 +1,3 @@
-# JSEBridge
 # JSE Bridge
 
 > Compare your Jamaican stock portfolio with Canadian and US alternatives, and track it all in one place.
